@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- SlimOTA update checker -->
+    <string name="xml_url_kitkat">https://s.basketbuild.com/uploads/devs/chil360/xml/SlimKat_ota.xml</string>
+
+</resources>
